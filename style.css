@@ -10,6 +10,11 @@ body {
   color: #f6f6f6;
 }
 
-strong {
+.titulo-destaque {
   color: #22d4fd;
+}
+
+.apresentacao {
+  display: flex;
+  align-items: center;
 }
